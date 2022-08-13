@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Wk3_Part_1___Create_and_Call_Funcstions_w_Parameters</RootNamespace>
+  </PropertyGroup>
+
+</Project>
